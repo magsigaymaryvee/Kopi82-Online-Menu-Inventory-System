@@ -1,0 +1,1 @@
+Note: Some files in this repository are too large for GitHub's web interface to display, so their contents may not be viewable directly on GitHub. Additionally, the database used for this project is private and is no longer available for public access. As a result, database-related functionality cannot be fully accessed or tested from this repository alone.
